@@ -1,0 +1,7 @@
+C:\Users\mzald\Documents\Area\SemanalesPOO\Ejercicio_semanales_POO\Ejercicio_Semanal1\Interfaces_Example_Mauricio\bin\Debug\Interfaces_Example_Mauricio.exe
+C:\Users\mzald\Documents\Area\SemanalesPOO\Ejercicio_semanales_POO\Ejercicio_Semanal1\Interfaces_Example_Mauricio\bin\Debug\Interfaces_Example_Mauricio.pdb
+C:\Users\mzald\Documents\Area\SemanalesPOO\Ejercicio_semanales_POO\Ejercicio_Semanal1\Interfaces_Example_Mauricio\obj\Debug\Interfaces_Example_Mauricio.csproj.AssemblyReference.cache
+C:\Users\mzald\Documents\Area\SemanalesPOO\Ejercicio_semanales_POO\Ejercicio_Semanal1\Interfaces_Example_Mauricio\obj\Debug\Interfaces_Example_Mauricio.csproj.SuggestedBindingRedirects.cache
+C:\Users\mzald\Documents\Area\SemanalesPOO\Ejercicio_semanales_POO\Ejercicio_Semanal1\Interfaces_Example_Mauricio\obj\Debug\Interfaces_Example_Mauricio.csproj.CoreCompileInputs.cache
+C:\Users\mzald\Documents\Area\SemanalesPOO\Ejercicio_semanales_POO\Ejercicio_Semanal1\Interfaces_Example_Mauricio\obj\Debug\Interfaces_Example_Mauricio.exe
+C:\Users\mzald\Documents\Area\SemanalesPOO\Ejercicio_semanales_POO\Ejercicio_Semanal1\Interfaces_Example_Mauricio\obj\Debug\Interfaces_Example_Mauricio.pdb
